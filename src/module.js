@@ -10,4 +10,4 @@ async function start() {
     await sleep(4000)
     console.log('second')
 }
-start()
+start();
